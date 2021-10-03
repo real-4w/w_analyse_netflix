@@ -1,5 +1,5 @@
 import pandas as pd
-import pathlib, pytz
+import pathlib, pytz, matplotlib
 
 
 #check the location of the CSV file. I used a data subdirectory, followed by Netflix' directory structure.
@@ -37,3 +37,28 @@ if __name__ == "__main__":                                      # only run this 
     shameless['weekday'] = shameless['Start Time'].dt.weekday
     shameless['hour'] = shameless['Start Time'].dt.hour
     shameless.head(1)  
+    # set our categorical and define the order so the days are plotted Monday-Sunday
+    shameless['weekday'] = pd.Categorical(shameless['weekday'], categories= [0,1,2,3,4,5,6], ordered=True)
+    # create shameless_by_day and count the rows for each weekday, assigning the result to that variable
+    shameless_by_day = shameless['weekday'].value_counts()
+
+    # sort the index using our categorical, so that Monday (0) is first, Tuesday (1) is second, etc.
+    shameless_by_day = shameless_by_day.sort_index()
+
+    # optional: update the font size to make it a bit larger and easier to read
+    matplotlib.rcParams.update({'font.size': 22})
+
+    # plot shameless_by_day as a bar chart with the listed size and title
+    shameless_by_day.plot(kind='bar', figsize=(20,10), title='Shameless Episodes Watched by Day')
+
+    # set our categorical and define the order so the hours are plotted 0-23
+    shameless['hour'] = pd.Categorical(shameless['hour'], categories= [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23], ordered=True)
+
+    # create shameless_by_hour and count the rows for each hour, assigning the result to that variable
+    shameless_by_hour = shameless['hour'].value_counts()
+
+    # sort the index using our categorical, so that midnight (0) is first, 1 a.m. (1) is second, etc.
+    shameless_by_hour = shameless_by_hour.sort_index()
+
+    # plot shameless_by_hour as a bar chart with the listed size and title
+    shameless_by_hour.plot(kind='bar', figsize=(20,10), title='shameless Episodes Watched by Hour')
