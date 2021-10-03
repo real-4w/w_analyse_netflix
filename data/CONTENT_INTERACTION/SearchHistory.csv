@@ -1,0 +1,550 @@
+Profile Name,Country Iso Code,Device,Is Kids,Query Typed,Displayed Name,Action,Section,Utc Timestamp
+Alex,NZ,Smart TV,0,p,Penguins of Madagascar: The Movie,play,video_info,2021-09-25 19:06:02
+Alex,NZ,Smart TV,0,p,Penguins of Madagascar: The Movie,view_video_info,title_results,2021-09-25 19:05:59
+Alex,NZ,MVPD STB,0,k,The Karate Kid,play,video_info,2021-09-02 07:23:36
+Alex,NZ,MVPD STB,0,k,The Karate Kid,view_video_info,title_results,2021-09-02 07:23:29
+Alex,NZ,MVPD STB,0,k,The Karate Kid,view_video_info,title_results,2021-09-02 07:23:22
+Alex,NZ,MVPD STB,0,comi,Coming to America,play,video_info,2021-08-28 03:55:43
+Alex,NZ,MVPD STB,0,comi,Coming to America,view_video_info,title_results,2021-08-28 03:55:39
+Alex,NZ,MVPD STB,0,men,Men in Black,view_video_info,suggestion_title_results,2021-08-21 03:35:50
+Alex,NZ,MVPD STB,0,men,Men in Black II,view_suggestion_info,suggestion_results,2021-08-21 03:35:48
+Alex,NZ,MVPD STB,0,me,Men in Black,view_video_info,title_results,2021-08-21 03:35:31
+Alex,NZ,Smart TV,0,hot,Hotel Transylvania 3: Summer Vacation,view_video_info,title_results,2021-07-02 20:29:47
+Alex,NZ,MVPD STB,0,zo,The Legend of Zorro,play,video_info,2021-06-19 08:01:00
+Alex,NZ,MVPD STB,0,zo,The Legend of Zorro,view_video_info,title_results,2021-06-19 08:00:56
+Alex,NZ,MVPD STB,0,roo,Room on the Broom,play,video_info,2021-06-11 07:26:48
+Alex,NZ,MVPD STB,0,roo,Room on the Broom,view_video_info,title_results,2021-06-11 07:26:43
+Alex,NZ,MVPD STB,0,jonn,Johnny English Reborn,view_video_info,title_results,2021-05-21 05:33:06
+Alex,NZ,iPad,0,planet of the apes,Godzilla,view_video_info,title_results,2021-05-01 09:25:02
+Alex,NZ,iPad,0,king kong,GODZILLA Planet of the Monsters,view_video_info,title_results,2021-05-01 09:24:12
+Alex,NZ,iPad,0,king kong,Kong: King of the Apes,view_video_info,title_results,2021-05-01 09:24:02
+Alex,NZ,Smart TV,0,d,Despicable Me,play,video_info,2021-04-17 20:23:36
+Alex,NZ,Smart TV,0,d,Despicable Me,view_video_info,title_results,2021-04-17 20:23:29
+Alex,NZ,MVPD STB,0,scho,School of Rock,play,video_info,2021-04-10 07:54:50
+Alex,NZ,MVPD STB,0,scho,School of Rock,view_video_info,title_results,2021-04-10 07:54:48
+Alex,NZ,MVPD STB,0,schoo,School of Rock,view_video_info,title_results,2021-04-10 06:20:24
+Alex,NZ,MVPD STB,0,thu,Thunder Force,play,video_info,2021-04-10 00:05:58
+Alex,NZ,MVPD STB,0,thu,Thunder Force,view_video_info,title_results,2021-04-10 00:05:55
+Alex,NZ,MVPD STB,0,j,Jurassic Park,play,video_info,2021-03-06 01:55:16
+Alex,NZ,MVPD STB,0,j,Jurassic Park,view_video_info,title_results,2021-03-06 01:54:55
+Alex,NZ,MVPD STB,0,home,How the Grinch Stole Christmas,view_video_info,suggestion_title_results,2020-12-23 06:02:56
+Alex,NZ,MVPD STB,0,home,Home Alone,view_suggestion_info,suggestion_results,2020-12-23 06:02:52
+Alex,NZ,Smart TV,0,bo,The Boss Baby: Get That Baby!,play,video_info,2020-11-20 18:50:53
+Alex,NZ,Smart TV,0,bo,The Boss Baby: Get That Baby!,view_video_info,title_results,2020-11-20 18:50:49
+Alex,NZ,MVPD STB,0,sp,The Amazing Spider-Man 2,play,video_info,2020-11-07 03:09:26
+Alex,NZ,MVPD STB,0,sp,The Amazing Spider-Man 2,view_video_info,title_results,2020-11-07 03:09:22
+Alex,NZ,MVPD STB,0,bo,The Boss Baby: Get That Baby!,play,video_info,2020-10-22 02:11:58
+Alex,NZ,MVPD STB,0,bo,The Boss Baby: Get That Baby!,view_video_info,title_results,2020-10-22 02:11:55
+Alex,NZ,MVPD STB,0,spi,Spider-Man,view_suggestion_info,suggestion_results,2020-10-09 04:29:26
+Alex,NZ,MVPD STB,0,the ama,Spider-Man: Homecoming,view_video_info,title_results,2020-10-09 04:27:56
+Alex,NZ,MVPD STB,0,go,Goosebumps,play,video_info,2020-10-08 03:36:19
+Alex,NZ,MVPD STB,0,go,Goosebumps,view_video_info,title_results,2020-10-08 03:36:08
+Alex,NZ,MVPD STB,0,latt,Latte and the Magic Waterstone,play,video_info,2020-08-19 02:56:04
+Alex,NZ,MVPD STB,0,latt,Latte and the Magic Waterstone,view_video_info,title_results,2020-08-19 02:55:58
+Alex,NZ,MVPD STB,0,ba,Back to the Future Part II,play,video_info,2020-08-01 06:41:38
+Alex,NZ,MVPD STB,0,ba,Back to the Future Part II,view_video_info,title_results,2020-08-01 06:39:12
+Alex,NZ,Smart TV,0,tin,The Adventures of Tintin,play,video_info,2020-07-30 06:51:47
+Alex,NZ,Smart TV,0,tin,The Adventures of Tintin,view_video_info,title_results,2020-07-30 06:51:41
+Alex,NZ,MVPD STB,0,sn,Robin Hood,play,video_info,2020-07-18 05:12:33
+Alex,NZ,MVPD STB,0,sn,Robin Hood,view_video_info,title_results,2020-07-18 05:12:30
+Alex,NZ,MVPD STB,0,little ra,The Little Rascals Save the Day,view_suggestion_info,suggestion_results,2020-07-03 06:10:14
+Alex,NZ,MVPD STB,0,li,The Little Rascals,play,video_info,2020-06-12 05:26:02
+Alex,NZ,MVPD STB,0,li,The Little Rascals,view_video_info,title_results,2020-06-12 05:25:58
+Alex,NZ,MVPD STB,1,sur,Power Rangers Mystic Force,play,video_info,2020-01-30 03:08:33
+Alex,NZ,MVPD STB,1,sur,Power Rangers Mystic Force,view_video_info,suggestion_title_results,2020-01-30 03:08:29
+Alex,NZ,MVPD STB,1,sur,Superheroes,view_suggestion_info,suggestion_results,2020-01-30 03:08:19
+Alex,NZ,MVPD STB,1,s,Sonic X,view_video_info,suggestion_title_results,2020-01-30 03:07:09
+Alex,NZ,MVPD STB,1,s,Sonic the Hedgehog,view_suggestion_info,suggestion_results,2020-01-30 03:07:04
+Alex,NZ,MVPD STB,1,yo,Young Justice,play,video_info,2020-01-29 04:53:33
+Alex,NZ,MVPD STB,1,yo,Young Justice,view_video_info,title_results,2020-01-29 04:53:32
+Alex,NZ,MVPD STB,1,yo,Young Justice,play,video_info,2020-01-29 04:52:24
+Alex,NZ,MVPD STB,1,yo,Young Justice,view_video_info,title_results,2020-01-29 04:52:22
+Alex,NZ,iPad,1,young ,Young Justice,play,video_info,2020-01-29 03:13:39
+Alex,NZ,iPad,1,young ,Young Justice,view_video_info,title_results,2020-01-29 03:13:29
+Alex,NZ,MVPD STB,1,yo,Young Justice,play,video_info,2020-01-29 02:22:28
+Alex,NZ,MVPD STB,1,yo,Young Justice,view_video_info,title_results,2020-01-29 02:20:45
+Alex,NZ,MVPD STB,1,t,Teen Titans Go!,play,video_info,2020-01-19 04:48:40
+Alex,NZ,MVPD STB,1,t,Teen Titans Go!,view_video_info,title_results,2020-01-19 04:48:38
+Alex,US,iPad,1,scooby doo,Charlie and the Chocolate Factory,view_video_info,title_results,2020-01-10 12:58:37
+Alex,US,iPad,1,scooby doo,Scooby-Doo!: Mystery Incorporated,play,video_info,2020-01-10 12:58:20
+Alex,US,iPad,1,scooby doo,Scooby-Doo!: Mystery Incorporated,view_video_info,title_results,2020-01-10 12:58:16
+Alex,NZ,HTML 5,1,bear gri,You vs. Wild,play,video_info,2019-12-23 04:06:33
+Alex,NZ,HTML 5,1,bear gri,You vs. Wild,view_video_info,title_results,2019-12-23 04:06:26
+Alex,NZ,MVPD STB,1,king,All Hail King Julien: Exiled,play,video_info,2019-12-14 03:19:59
+Alex,NZ,MVPD STB,1,king,All Hail King Julien: Exiled,view_video_info,title_results,2019-12-14 03:19:56
+Alex,NZ,MVPD STB,1,cat,The Cat in the Hat Knows a Lot About That!,play,video_info,2019-11-29 00:07:44
+Alex,NZ,MVPD STB,1,cat,The Cat in the Hat Knows a Lot About That!,view_video_info,title_results,2019-11-29 00:07:43
+Alex,NZ,MVPD STB,1,p,Paddington 2,play,video_info,2019-10-19 04:05:57
+Alex,NZ,MVPD STB,1,p,Paddington 2,view_video_info,title_results,2019-10-19 04:05:55
+Alex,NZ,iPad,1,earth,Our Planet,view_video_info,title_results,2019-10-10 20:11:19
+Alex,NZ,iPad,1,earth,Earth: One Amazing Day,view_video_info,title_results,2019-10-10 20:10:59
+Alex,NZ,iPad,1,earth,Our Planet,view_video_info,title_results,2019-10-10 20:10:48
+Alex,NZ,iPad,1,earth,The Universe,view_video_info,title_results,2019-10-10 20:10:34
+Alex,NZ,iPad,1,earth,Brain Games,play,video_info,2019-10-10 20:09:01
+Alex,NZ,iPad,1,earth,Brain Games,view_video_info,title_results,2019-10-10 20:08:11
+Alex,NZ,MVPD STB,1,bear g,Our Planet,play,video_info,2019-10-10 07:51:33
+Alex,NZ,MVPD STB,1,bear g,Our Planet,view_video_info,title_results,2019-10-10 07:51:24
+Alex,NZ,MVPD STB,1,bear g,You vs. Wild,play,video_info,2019-10-10 07:50:46
+Alex,NZ,MVPD STB,1,bear g,You vs. Wild,view_video_info,title_results,2019-10-10 07:50:37
+Alex,NZ,Android Tablet,1,sti,Geronimo Stilton,play,video_info,2019-05-25 20:54:38
+Alex,NZ,Android Tablet,1,sti,Geronimo Stilton,view_video_info,title_results,2019-05-25 20:40:35
+Alex,NZ,Android Tablet,1,still,Horrid Henry,view_video_info,title_results,2019-05-25 20:40:15
+Alex,NZ,Android Tablet,1,g,Despicable Me,view_video_info,title_results,2019-05-25 20:37:00
+Alex,NZ,iPad,1,harry,Harry Potter and the Philosopher's Stone,view_video_info,title_results,2019-03-31 03:11:29
+Alex,NZ,Android,1,home alone,alvin and the chipmunks,view_video_info,video_info,2018-03-23 05:56:11
+Alex,NZ,Android,1,home alone,alvin and the chipmunks,play,video_info,2018-03-23 05:56:10
+Alex,NZ,Android,1,home alone,alvin and the chipmunks,view_video_info,title_results,2018-03-23 05:56:07
+Alex,NZ,Android,1,kung ,kung fu panda: secrets of the scroll,view_video_info,video_info,2018-01-02 03:28:56
+Alex,NZ,Android,1,kung ,kung fu panda: secrets of the scroll,play,video_info,2018-01-02 03:28:54
+Alex,NZ,Android,1,kung ,kung fu panda: secrets of the scroll,view_video_info,title_results,2018-01-02 03:28:51
+Alex,NZ,Android Tablet,1,shrek,shrek,play,video_info,2016-12-25 21:46:14
+Alex,NZ,Android Tablet,1,shrek,shrek,view_video_info,video_info,2016-12-25 21:46:11
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,view_video_info,video_info,2016-12-25 21:45:55
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,play,video_info,2016-12-25 21:45:53
+Alex,NZ,Android Tablet,1,shrek,dreamworks shrek's swamp stories,view_video_info,video_info,2016-12-25 21:45:50
+Alex,NZ,Android Tablet,1,shrek,dreamworks shrek's swamp stories,play,video_info,2016-12-25 21:45:09
+Alex,NZ,Android Tablet,1,shrek,dreamworks shrek's swamp stories,play,video_info,2016-12-25 21:05:39
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,play,video_info,2016-12-25 20:43:49
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,view_video_info,video_info,2016-12-25 20:43:46
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,play,video_info,2016-12-25 20:42:13
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,view_video_info,video_info,2016-12-25 20:42:09
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,play,video_info,2016-12-25 19:45:56
+Alex,NZ,Android Tablet,1,shrek,dreamworks spooky stories,view_video_info,title_results,2016-12-25 19:45:45
+Alex,NZ,Android Tablet,1,night,in the night garden,view_video_info,video_info,2016-11-11 18:00:49
+Alex,NZ,Android Tablet,1,night,in the night garden,view_video_info,title_results,2016-11-11 17:59:28
+Alex,NZ,Android Tablet,1,night,in the night garden,play,title_results,2016-11-11 17:59:25
+Cruzer,NZ,iPad,0,battl,,view_video_info,suggestion_title_results,2021-09-18 02:37:22
+Cruzer,NZ,iPad,0,this is us ,This Is Us,view_suggestion_info,suggestion_results,2021-09-15 03:44:17
+Cruzer,NZ,iPad,0,battle,Battlebots,view_video_info,title_results,2021-09-10 04:58:09
+Cruzer,NZ,iPad,0,kareta ,The Karate Kid,view_video_info,title_results,2021-09-02 07:22:51
+Cruzer,NZ,iPad,0,kareta ,The Karate Kid,view_video_info,title_results,2021-09-02 07:22:46
+Cruzer,NZ,iPad,0,king kong ,King Kong,view_suggestion_info,suggestion_results,2021-09-02 07:22:35
+Cruzer,NZ,iPad,0,king kong ,The Karate Kid,view_video_info,title_results,2021-09-02 07:22:22
+Cruzer,NZ,iPad,0,batman,Batman Begins,view_video_info,title_results,2021-08-31 07:00:50
+Cruzer,NZ,iPad,0,batman,The Dark Knight,view_video_info,title_results,2021-08-29 08:45:01
+Cruzer,NZ,iPad,0,comin,Coming to America,view_video_info,title_results,2021-08-28 03:53:11
+Cruzer,NZ,iPad,0,50,Fifty Shades of Grey,view_video_info,title_results,2021-08-21 09:06:35
+Cruzer,NZ,iPad,0,men in black ,Men in Black,view_video_info,title_results,2021-08-20 05:33:13
+Cruzer,NZ,iPad,0,,,play,popularSearches,2021-07-30 05:29:01
+Cruzer,NZ,iPad,0,,The Big Bang Theory,play,popularSearches,2021-07-30 04:51:28
+Cruzer,NZ,iPad,0,,The Big Bang Theory,view_video_info,popularSearches,2021-07-30 04:51:12
+Cruzer,NZ,iPad,0,are ,Are We There Yet?,view_video_info,title_results,2021-07-16 06:16:40
+Cruzer,NZ,iPad,0,bridget,Bridget Jones's Baby,view_video_info,title_results,2021-07-13 01:45:11
+Cruzer,NZ,iPad,0,bridget,Bridget Jones: The Edge of Reason,view_video_info,title_results,2021-07-13 01:44:45
+Cruzer,NZ,iPad,0,,Heartland,view_video_info,popularSearches,2021-07-13 01:44:05
+Cruzer,NZ,iPad,0,love ,Love Is Blind,view_video_info,title_results,2021-07-13 01:43:37
+Cruzer,NZ,iPad,0,love ,Love Song,view_video_info,title_results,2021-07-13 01:43:16
+Cruzer,NZ,iPad,0,love,Love Song,view_video_info,title_results,2021-07-13 00:23:06
+Cruzer,NZ,iPad,0,tri,Trippin' with the Kandasamys,view_video_info,title_results,2021-06-07 01:57:46
+Cruzer,NZ,iPad,0,jess,Marvel's Jessica Jones,view_video_info,title_results,2021-05-23 06:28:47
+Cruzer,NZ,iPad,0,giri,Giri / Haji,view_video_info,title_results,2021-04-28 06:46:23
+Cruzer,NZ,iPad,0,new am,New Amsterdam,view_video_info,title_results,2021-04-28 06:36:16
+Cruzer,NZ,iPad,0,johnny,Johnny English,view_video_info,title_results,2021-04-28 06:32:27
+Cruzer,NZ,iPad,0,the floor,Floor Is Lava,view_video_info,title_results,2021-04-26 06:44:30
+Cruzer,NZ,iPad,0,godzilla,GODZILLA The Planet Eater,view_video_info,title_results,2021-04-02 01:53:50
+Cruzer,NZ,iPad,0,godzilla,GODZILLA Planet of the Monsters,view_video_info,title_results,2021-04-02 01:53:45
+Cruzer,NZ,iPad,0,godzilla,Godzilla: King of the Monsters,view_video_info,title_results,2021-04-02 01:53:40
+Cruzer,NZ,iPad,0,godzilla,GODZILLA Planet of the Monsters,view_video_info,title_results,2021-04-02 01:53:31
+Cruzer,NZ,iPad,0,godzilla,GODZILLA The Planet Eater,view_video_info,title_results,2021-04-02 01:53:21
+Cruzer,NZ,iPad,0,godzilla,Godzilla,view_video_info,title_results,2021-04-02 01:53:08
+Cruzer,NZ,iPad,0,godzilla,Godzilla: King of the Monsters,view_video_info,title_results,2021-04-02 01:53:02
+Cruzer,NZ,iPad,0,country,Country Comfort,view_video_info,title_results,2021-03-31 06:37:16
+Cruzer,NZ,iPad,0,you,You,view_video_info,title_results,2021-03-21 03:23:12
+Cruzer,NZ,iPad,0,jura,Jurassic World,view_video_info,title_results,2021-03-12 06:30:29
+Cruzer,NZ,iPad,0,jura,Jurassic Park III,view_video_info,title_results,2021-03-06 03:41:55
+Cruzer,NZ,iPad,0,jura,Jurassic Park,view_video_info,title_results,2021-03-06 03:41:06
+Cruzer,NZ,iPad,0,jura,Jurassic Park III,view_video_info,title_results,2021-03-06 03:41:01
+Cruzer,NZ,iPad,0,jura,Jurassic World,view_video_info,title_results,2021-03-06 03:40:58
+Cruzer,NZ,iPad,0,godz,Godzilla: King of the Monsters,view_video_info,title_results,2021-03-03 18:19:30
+Cruzer,NZ,iPad,0,capa,Capitani,play,video_info,2021-03-01 06:10:53
+Cruzer,NZ,iPad,0,capa,Capitani,view_video_info,title_results,2021-03-01 06:10:49
+Cruzer,NZ,iPad,0,capa,Capitani,view_video_info,title_results,2021-03-01 06:10:04
+Cruzer,NZ,iPad,0,hem,Hemlock Grove,view_video_info,title_results,2021-02-21 06:30:48
+Cruzer,NZ,iPad,0,hem,Hemlock Grove,view_video_info,title_results,2021-02-18 06:08:17
+Cruzer,NZ,iPad,0,hemlo,Hemlock Grove,view_video_info,title_results,2021-02-18 06:05:43
+Cruzer,NZ,iPad,0,fr,Friends,play,video_info,2021-02-17 15:44:36
+Cruzer,NZ,iPad,0,fr,Friends,view_video_info,title_results,2021-02-17 15:44:32
+Cruzer,NZ,MVPD STB,0,brd,Bridget Jones's Diary,view_video_info,title_results,2021-02-16 21:21:14
+Cruzer,NZ,iPad,0,love fest,We Can Be Heroes,view_video_info,title_results,2021-02-13 04:10:34
+Cruzer,NZ,iPad,0,indi,Indiana Jones and the Temple of Doom,view_video_info,title_results,2021-02-12 22:32:49
+Cruzer,NZ,iPad,0,sh,Shazam!,view_video_info,title_results,2021-01-07 19:02:36
+Cruzer,NZ,iPad,0,eqi,Equinox,play,video_info,2021-01-05 06:10:24
+Cruzer,NZ,iPad,0,eqi,Equinox,view_video_info,title_results,2021-01-05 06:10:16
+Cruzer,NZ,iPad,0,fas,Fast & Furious,view_video_info,title_results,2021-01-03 07:57:36
+Cruzer,NZ,iPad,0,love actually,The Holiday,play,video_info,2020-12-24 06:56:54
+Cruzer,NZ,iPad,0,love actually,The Holiday,view_video_info,title_results,2020-12-24 06:56:51
+Cruzer,NZ,iPad,0,,Big Mouth,view_video_info,popularSearches,2020-12-24 05:20:01
+Cruzer,NZ,MVPD STB,0,nail,Nailed It! Holiday!,play,video_info,2020-12-23 00:14:14
+Cruzer,NZ,MVPD STB,0,nail,Nailed It! Holiday!,view_video_info,title_results,2020-12-23 00:14:11
+Cruzer,NZ,iPad,0,wanted ,Wanted,play,video_info,2020-12-10 07:03:57
+Cruzer,NZ,iPad,0,wanted ,Wanted,view_video_info,title_results,2020-12-10 07:03:48
+Cruzer,NZ,iPad,0,christmas on,Dolly Parton’s Christmas on the Square,view_video_info,title_results,2020-12-08 07:35:44
+Cruzer,NZ,iPad,0,selena,Selena,view_video_info,title_results,2020-12-08 07:31:38
+Cruzer,NZ,iPad,0,the or,The Order,view_video_info,title_results,2020-12-06 05:49:24
+Cruzer,NZ,iPad,0,doll,Dolly Parton’s Christmas on the Square,view_video_info,title_results,2020-12-05 18:05:59
+Cruzer,NZ,iPad,0,doll,Dolly Parton: Here I Am,view_video_info,title_results,2020-12-05 18:05:53
+Cruzer,NZ,iPad,0,dash,DASH & LILY,view_video_info,title_results,2020-11-29 01:58:53
+Cruzer,NZ,iPad,0,happiest season,HAPPIEST SEASON,view_suggestion_info,suggestion_results,2020-11-28 05:51:47
+Cruzer,NZ,iPad,0,das,DASH & LILY,view_video_info,title_results,2020-11-28 05:50:52
+Cruzer,NZ,iPad,0,fre,The Fresh Prince of Bel-Air,play,video_info,2020-11-22 05:34:44
+Cruzer,NZ,iPad,0,fre,The Fresh Prince of Bel-Air,play,video_info,2020-11-22 04:12:06
+Cruzer,NZ,iPad,0,fre,The Fresh Prince of Bel-Air,view_video_info,title_results,2020-11-22 04:12:01
+Cruzer,NZ,iPad,0,the orde,The Order,view_video_info,title_results,2020-11-18 06:19:58
+Cruzer,NZ,iPad,0,the order,The Order,view_video_info,title_results,2020-11-18 06:16:42
+Cruzer,NZ,iPad,0,amer,American Murder: The Family Next Door,view_video_info,title_results,2020-11-14 18:20:23
+Cruzer,NZ,iPad,0,what,What Men Want,play,video_info,2020-11-10 04:12:22
+Cruzer,NZ,iPad,0,what,What Men Want,view_video_info,title_results,2020-11-10 04:12:20
+Cruzer,NZ,iPad,0,happy feet,Happy Feet,view_video_info,title_results,2020-11-08 01:32:23
+Cruzer,NZ,iPad,0,happ,Happy Feet,view_video_info,title_results,2020-11-05 07:11:59
+Cruzer,NZ,iPad,0,the gi,The Gift,play,video_info,2020-10-26 06:24:29
+Cruzer,NZ,iPad,0,the gi,The Gift,play,video_info,2020-10-26 06:11:00
+Cruzer,NZ,iPad,0,the gi,The Gift,view_video_info,title_results,2020-10-26 06:10:45
+Cruzer,NZ,iPad,0,greta,Greta,view_video_info,title_results,2020-10-18 00:43:40
+Cruzer,NZ,iPad,0,fargo,Fargo,view_video_info,title_results,2020-10-17 07:56:15
+Cruzer,NZ,iPad,0,the ama,The Amazing Spider-Man,view_video_info,title_results,2020-10-09 04:30:03
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man,view_video_info,title_results,2020-10-09 04:27:34
+Cruzer,NZ,iPad,0,spiderman ,Spider-Man: Homecoming,view_video_info,title_results,2020-10-09 04:26:39
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man 2,view_video_info,title_results,2020-10-09 04:26:36
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man,view_video_info,title_results,2020-10-09 04:26:31
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man 2,view_video_info,title_results,2020-10-09 04:26:19
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man,view_video_info,title_results,2020-10-09 04:26:04
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man 2,view_video_info,title_results,2020-10-09 04:26:01
+Cruzer,NZ,iPad,0,spiderman ,The Amazing Spider-Man,view_video_info,title_results,2020-10-09 04:25:51
+Cruzer,NZ,iPad,0,spiderman ,Spider-Man: Homecoming,view_video_info,title_results,2020-10-09 04:25:48
+Cruzer,NZ,iPad,0,fab five,Queer Eye,play,video_info,2020-10-02 05:21:55
+Cruzer,NZ,iPad,0,fab five,Queer Eye,view_video_info,title_results,2020-10-02 05:21:32
+Cruzer,NZ,iPad,0,,The Emoji Movie,view_video_info,popularSearches,2020-10-02 05:21:12
+Cruzer,NZ,MVPD STB,0,lost,Lost Girls,play,video_info,2020-09-13 02:47:03
+Cruzer,NZ,MVPD STB,0,lost,Lost Girls,view_video_info,title_results,2020-09-13 02:47:01
+Cruzer,NZ,iPad,0,trauma c,Trauma Center,view_video_info,title_results,2020-09-13 01:36:47
+Cruzer,NZ,iPad,0,the du,The Duchess,view_video_info,title_results,2020-09-12 21:28:09
+Cruzer,NZ,iPad,0,the du,The Duchess,view_video_info,title_results,2020-09-12 21:27:37
+Cruzer,NZ,iPad,0,fant,Fantastic Beasts: The Crimes of Grindelwald,view_video_info,title_results,2020-09-12 06:32:59
+Cruzer,NZ,iPad,0,fant,Fantastic Beasts and Where To Find Them,view_video_info,title_results,2020-09-12 06:32:20
+Cruzer,NZ,iPad,0,fant,Fantastic Beasts and Where To Find Them,view_video_info,title_results,2020-09-11 07:03:01
+Cruzer,NZ,iPad,0,,An Easy Girl,view_video_info,popularSearches,2020-08-30 01:53:48
+Cruzer,NZ,iPad,0,wonder,Wonder Woman: Bloodlines,view_video_info,title_results,2020-08-28 07:04:50
+Cruzer,NZ,iPad,0,batman,Batman v Superman: Dawn of Justice,view_video_info,title_results,2020-08-21 05:36:45
+Cruzer,NZ,MVPD STB,0,su,Superman Returns,play,video_info,2020-08-21 03:15:04
+Cruzer,NZ,MVPD STB,0,su,Superman Returns,view_video_info,title_results,2020-08-21 03:15:01
+Cruzer,NZ,iPad,0,dc movies,Superman Returns,view_video_info,title_results,2020-08-21 03:12:23
+Cruzer,NZ,iPad,0,dc movies,Man of Steel,view_video_info,title_results,2020-08-21 03:12:19
+Cruzer,NZ,iPad,0,dc movies,Superman Returns,view_video_info,title_results,2020-08-21 03:12:07
+Cruzer,NZ,iPad,0,lord,The Lord of the Rings: The Return of the King,view_video_info,title_results,2020-08-20 19:33:38
+Cruzer,NZ,iPad,0,lord,The Lord of the Rings: The Fellowship of the Ring,view_video_info,title_results,2020-08-20 19:33:32
+Cruzer,NZ,iPad,0,meg,The Meg,view_video_info,title_results,2020-08-19 02:54:04
+Cruzer,NZ,MVPD STB,0,man,Man of Steel,play,video_info,2020-08-19 00:29:33
+Cruzer,NZ,MVPD STB,0,man,Man of Steel,view_video_info,title_results,2020-08-19 00:29:22
+Cruzer,NZ,iPad,0,wonder woman ,Wonder Woman,view_suggestion_info,suggestion_results,2020-08-18 23:49:04
+Cruzer,NZ,iPad,0,wonder woman ,Man of Steel,view_video_info,title_results,2020-08-18 23:48:51
+Cruzer,NZ,iPad,0,wonder woman ,Green Lantern,view_video_info,title_results,2020-08-18 23:48:46
+Cruzer,NZ,iPad,0,wonder woman ,Batman v Superman: Dawn of Justice,view_video_info,title_results,2020-08-18 23:48:43
+Cruzer,NZ,iPad,0,wonder woman ,Snow White & the Huntsman,view_video_info,title_results,2020-08-18 23:47:57
+Cruzer,NZ,iPad,0,batman ,Gotham,view_video_info,title_results,2020-08-18 23:46:36
+Cruzer,NZ,iPad,0,superman ,Hulk,view_video_info,title_results,2020-08-18 23:42:28
+Cruzer,NZ,iPad,0,dc movies,Titans,view_video_info,title_results,2020-08-18 23:42:00
+Cruzer,NZ,iPad,0,dc movies,Marvel's The Defenders,view_video_info,title_results,2020-08-18 23:41:42
+Cruzer,NZ,iPad,0,line,Line of Duty,play,video_info,2020-08-18 00:05:17
+Cruzer,NZ,iPad,0,line,Line of Duty,view_video_info,title_results,2020-08-18 00:05:03
+Cruzer,NZ,iPad,0,seven sec,Seven Seconds,view_video_info,title_results,2020-08-18 00:04:48
+Cruzer,NZ,iPad,0,janet,Janet King,view_video_info,title_results,2020-08-18 00:04:23
+Cruzer,NZ,iPad,0,wonder,Batman v Superman: Dawn of Justice,view_video_info,title_results,2020-08-17 04:50:20
+Cruzer,NZ,iPad,0,adams family,The Addams Family,view_suggestion_info,suggestion_results,2020-08-17 01:46:39
+Cruzer,NZ,iPad,0,lord,The Lord of the Rings: The Return of the King,view_video_info,title_results,2020-08-15 22:58:23
+Cruzer,NZ,MVPD STB,0,hu,Hulk,play,video_info,2020-07-31 04:59:02
+Cruzer,NZ,MVPD STB,0,hu,Hulk,view_video_info,title_results,2020-07-31 04:58:59
+Cruzer,NZ,MVPD STB,0,hu,Planet Hulk,view_video_info,title_results,2020-07-31 04:58:54
+Cruzer,NZ,MVPD STB,0,hu,Hulk,view_video_info,title_results,2020-07-31 04:58:39
+Cruzer,NZ,MVPD STB,0,lor,The Lord of the Rings: The Fellowship of the Ring,play,video_info,2020-07-25 01:07:40
+Cruzer,NZ,MVPD STB,0,lor,The Lord of the Rings: The Fellowship of the Ring,view_video_info,title_results,2020-07-25 01:07:32
+Cruzer,NZ,iPad,0,lo,The Lord of the Rings: The Fellowship of the Ring,view_video_info,title_results,2020-07-24 23:35:28
+Cruzer,NZ,iPad,0,outsiders,The Outsiders,view_video_info,title_results,2020-07-24 08:09:20
+Cruzer,NZ,iPad,0,outsiders,The Outsider,view_video_info,title_results,2020-07-24 08:08:56
+Cruzer,NZ,iPad,0,lord of the rings two towers,Hulk,view_video_info,title_results,2020-07-24 07:17:34
+Cruzer,NZ,iPad,0,lord of the rings ,The Lord of the Rings: The Two Towers,view_suggestion_info,suggestion_results,2020-07-24 07:16:55
+Cruzer,NZ,iPad,0,lord of the rings ,The Lord of the Rings: The Return of the King,view_video_info,title_results,2020-07-24 07:16:40
+Cruzer,NZ,iPad,0,lord of the rings ,The Lord of the Rings: The Fellowship of the Ring,view_video_info,title_results,2020-07-24 07:15:26
+Cruzer,NZ,iPad,0,lord of the rings ,The Lord of the Rings: The Return of the King,view_video_info,title_results,2020-07-24 07:15:22
+Cruzer,NZ,iPad,0,rob,Robin Hood,view_video_info,title_results,2020-07-18 05:14:45
+Cruzer,NZ,iPad,0,ncis new,NCIS: New Orleans,view_suggestion_info,suggestion_results,2020-07-17 08:37:39
+Cruzer,NZ,iPad,0,last holoday,Last Holiday,view_suggestion_info,suggestion_results,2020-07-10 20:28:30
+Cruzer,NZ,iPad,0,you before me,Someone Great,play,video_info,2020-06-23 21:04:58
+Cruzer,NZ,iPad,0,you before me,Someone Great,view_video_info,title_results,2020-06-23 21:04:47
+Cruzer,NZ,iPad,0,you before me,The Lucky One,view_video_info,suggestion_title_results,2020-06-23 21:04:27
+Cruzer,NZ,iPad,0,you before me,Me Before You,view_suggestion_info,suggestion_results,2020-06-23 21:04:20
+Cruzer,NZ,iPad,0,,The Sinner,view_video_info,popularSearches,2020-06-20 20:00:59
+Cruzer,NZ,iPad,0,,The Nun,view_video_info,popularSearches,2020-06-20 20:00:44
+Cruzer,NZ,iPad,0,fr,Friends,view_video_info,title_results,2020-06-20 20:00:26
+Cruzer,NZ,iPad,0,the woods ,The Woods,play,video_info,2020-06-14 02:41:18
+Cruzer,NZ,iPad,0,the woods ,The Woods,view_video_info,title_results,2020-06-14 02:40:51
+Cruzer,NZ,iPad,0,little r,The Little Rascals,view_video_info,title_results,2020-06-12 05:25:22
+Cruzer,NZ,iPad,0,little r,Red Riding Hood,view_video_info,title_results,2020-06-12 05:25:01
+Cruzer,NZ,iPad,0,new girl,New Girl,play,video_info,2020-06-04 08:41:53
+Cruzer,NZ,iPad,0,new girl,New Girl,play,video_info,2020-06-04 07:50:23
+Cruzer,NZ,iPad,0,new girl,New Girl,view_video_info,title_results,2020-06-04 07:50:19
+Cruzer,NZ,iPad,0,white,White Lines,view_video_info,title_results,2020-05-23 18:36:03
+Cruzer,NZ,iPad,0,missy,The Wrong Missy,view_video_info,title_results,2020-05-19 18:00:23
+Cruzer,NZ,MVPD STB,0,mrs,Mrs. Serial Killer,view_video_info,title_results,2020-05-04 01:00:29
+Cruzer,NZ,iPad,0,mrs ser,Mrs. Serial Killer,view_video_info,title_results,2020-05-02 09:56:44
+Cruzer,NZ,iPad,0,jumanji ,Jumanji: Welcome to the Jungle,view_suggestion_info,suggestion_results,2020-05-01 07:18:22
+Cruzer,NZ,iPad,0,jum,Jumanji,view_video_info,title_results,2020-05-01 07:06:01
+Cruzer,NZ,iPad,0,snow white ,Red Riding Hood,view_video_info,title_results,2020-05-01 01:36:06
+Cruzer,NZ,iPad,0,boss ,The Boss Baby,view_suggestion_info,suggestion_results,2020-04-20 07:41:53
+Cruzer,NZ,iPad,0,boss ,The Boss Baby: Back in Business,view_video_info,title_results,2020-04-20 07:41:44
+Cruzer,NZ,iPad,0,highway,The Highwaymen,view_video_info,title_results,2020-04-19 03:20:59
+Cruzer,NZ,iPad,0,highway,The Highwaymen,play,video_info,2020-04-12 09:08:06
+Cruzer,NZ,iPad,0,highway,The Highwaymen,view_video_info,title_results,2020-04-12 09:07:39
+Cruzer,NZ,MVPD STB,0,ti,"Tiger King: Murder, Mayhem and Madness",view_video_info,title_results,2020-04-11 05:06:16
+Cruzer,NZ,iPad,0,walt before mickey,Walt Before Mickey,view_suggestion_info,suggestion_results,2020-04-08 07:56:17
+Cruzer,NZ,iPad,0,safe,The Stranger,view_video_info,title_results,2020-03-30 21:38:04
+Cruzer,NZ,iPad,0,the stran,The Stranger,view_video_info,title_results,2020-02-23 05:47:19
+Cruzer,NZ,iPad,0,narcos,Narcos: Mexico,view_video_info,title_results,2020-02-09 05:53:40
+Cruzer,NZ,iPad,0,narcos,Narcos: Mexico,view_video_info,title_results,2020-02-02 07:00:54
+Cruzer,NZ,iPad,0,narcos,Narcos,view_video_info,title_results,2020-02-02 07:00:36
+Cruzer,NZ,iPad,0,big ,The Big Bang Theory,play,video_info,2020-02-02 03:28:16
+Cruzer,NZ,iPad,0,big ,The Big Bang Theory,play,video_info,2020-02-02 03:17:09
+Cruzer,NZ,iPad,0,big ,The Big Bang Theory,view_video_info,title_results,2020-02-02 03:17:03
+Cruzer,US,iPad,0,pitch perfect 3,Pitch Perfect 3,view_suggestion_info,suggestion_results,2020-01-14 16:02:31
+Cruzer,US,iPad,0,big ba,The Big Bang Theory,view_suggestion_info,suggestion_results,2020-01-02 03:56:04
+Cruzer,US,iPad,0,friends,Friends,play,video_info,2019-12-29 05:00:14
+Cruzer,US,iPad,0,friends,Friends,play,video_info,2019-12-29 04:59:45
+Cruzer,US,iPad,0,friends,Friends,view_video_info,title_results,2019-12-29 04:59:21
+Cruzer,US,iPad,0,ncis,NCIS,view_video_info,title_results,2019-12-26 12:02:42
+Cruzer,US,iPad,0,ncis,,view_suggestion_info,suggestion_results,2019-12-25 11:47:47
+Cruzer,US,iPad,0,ncis,Friends,play,video_info,2019-12-25 08:34:33
+Cruzer,US,iPad,0,ncis,Friends,play,video_info,2019-12-25 08:16:52
+Cruzer,US,iPad,0,ncis,Friends,view_video_info,title_results,2019-12-25 08:16:42
+Cruzer,US,iPad,0,ncis,NCIS,view_video_info,title_results,2019-12-25 08:16:29
+Cruzer,US,iPad,0,friends,Friends,play,video_info,2019-12-23 10:30:58
+Cruzer,US,iPad,0,friends,Friends,play,video_info,2019-12-23 10:24:27
+Cruzer,US,iPad,0,friends,Friends,view_video_info,title_results,2019-12-23 10:23:47
+Cruzer,NZ,iPad,0,criminal sp,Criminal: UK,view_video_info,title_results,2019-12-19 07:12:07
+Cruzer,NZ,iPad,0,criminal sp,Criminal: Spain,view_video_info,title_results,2019-12-19 07:11:51
+Cruzer,NZ,iPad,0,criminal ,Criminal: UK,view_video_info,title_results,2019-12-18 06:59:45
+Cruzer,NZ,iPad,0,charlie and the ,Charlie and the Chocolate Factory,view_suggestion_info,suggestion_results,2019-12-17 07:58:07
+Cruzer,NZ,iPad,0,a christ,A Christmas Prince: The Royal Baby,view_video_info,title_results,2019-12-06 04:31:52
+Cruzer,NZ,iPad,0,willy winka,Willy Wonka & the Chocolate Factory,view_suggestion_info,suggestion_results,2019-12-04 21:34:03
+Cruzer,NZ,iPad,0,the windmill,Eli,view_video_info,title_results,2019-11-25 06:01:28
+Cruzer,NZ,iPad,0,the windmill,The Windmill,view_suggestion_info,suggestion_results,2019-11-25 06:01:12
+Cruzer,NZ,iPad,0,dutch shows,Undercover,view_video_info,title_results,2019-11-25 05:58:26
+Cruzer,NZ,iPad,0,dutch shows,Riphagen - The Untouchable,view_video_info,title_results,2019-11-25 05:58:24
+Cruzer,NZ,iPad,0,dutch shows,The Resistance Banker,view_video_info,title_results,2019-11-25 05:57:55
+Cruzer,NZ,iPad,0,dutch shows,Undercover,view_video_info,title_results,2019-11-25 05:57:43
+Cruzer,NZ,iPad,0,dutch shows,Riphagen - The Untouchable,view_video_info,title_results,2019-11-25 05:57:25
+Cruzer,NZ,iPad,0,blac,Black Spot,view_video_info,title_results,2019-11-03 05:28:48
+Cruzer,NZ,iPad,0,the ra,The Ranch,view_video_info,title_results,2019-11-02 21:19:01
+Cruzer,NZ,iPad,0,black sp,Black Spot,view_video_info,title_results,2019-10-22 07:04:37
+Cruzer,NZ,iPad,0,malef,Maleficent,view_suggestion_info,suggestion_results,2019-10-19 02:16:00
+Cruzer,NZ,iPad,0,malef,Mirror Mirror,view_video_info,title_results,2019-10-19 02:14:05
+Cruzer,NZ,iPad,0,in the shad,In the Shadow of the Moon,view_video_info,title_results,2019-10-07 19:55:25
+Cruzer,NZ,iPad,0,deviant,Deviant Love,view_video_info,title_results,2019-10-07 19:55:13
+Cruzer,NZ,iPad,0,black spot,Black Spot,view_video_info,title_results,2019-10-02 18:01:14
+Cruzer,NZ,iPad,0,twin peaks,Twin Peaks,view_suggestion_info,suggestion_results,2019-08-04 00:22:51
+Cruzer,NZ,iPad,0,we belong,We Belong Together,view_video_info,title_results,2019-07-16 08:30:10
+Cruzer,NZ,iPad,0,secret ob,Secret Obsession,view_video_info,title_results,2019-07-10 01:09:44
+Cruzer,NZ,iPad,0,dark,I Am Mother,view_video_info,title_results,2019-07-09 02:57:04
+Cruzer,NZ,iPad,0,dark,Dark,view_video_info,title_results,2019-07-09 02:56:42
+Cruzer,NZ,iPad,0,basement,The Basement,view_video_info,title_results,2019-07-09 02:52:20
+Cruzer,NZ,iPad,0,no other woman,No Other Woman,view_video_info,title_results,2019-07-09 02:51:41
+Cruzer,NZ,iPad,0,the chalet,,play,video_info,2019-06-06 08:04:31
+Cruzer,NZ,iPad,0,the chalet,The Chalet,view_video_info,title_results,2019-06-06 08:03:22
+Cruzer,NZ,iPad,0,the killing ,Conversations with a Killer: The Ted Bundy Tapes,view_video_info,title_results,2019-06-01 04:18:21
+Cruzer,NZ,iPad,0,the killing ,The Killing,view_video_info,title_results,2019-06-01 04:17:50
+Cruzer,NZ,iPad,0,murder mystery,Just Go With It,view_video_info,title_results,2019-05-02 09:39:04
+Cruzer,NZ,iPad,0,murder mystery,Murder Mystery,view_video_info,title_results,2019-05-02 09:38:21
+Cruzer,NZ,iPad,0,twinsanity,,play,video_info,2019-04-20 03:56:41
+Cruzer,NZ,iPad,0,twinsanity,Shadow,view_video_info,title_results,2019-04-20 03:56:24
+Cruzer,NZ,iPad,0,twinsanity,Twinsanity,view_video_info,title_results,2019-04-20 03:56:09
+Cruzer,NZ,iPad,0,bloodline ,Secret City,view_video_info,title_results,2019-04-20 03:07:13
+Cruzer,NZ,iPad,0,bloodline ,Bloodline,view_video_info,title_results,2019-04-20 03:06:59
+Cruzer,NZ,iPad,0,fluffy,Gabriel Iglesias: Hot and Fluffy,view_suggestion_info,suggestion_results,2019-04-06 07:25:05
+Cruzer,NZ,iPad,0,fluffy,"Gabriel ""Fluffy"" Iglesias: One Show Fits All",view_video_info,title_results,2019-04-06 07:24:41
+Cruzer,NZ,Smart TV,0,apa,The Apartment,play,video_info,2019-03-23 23:07:17
+Cruzer,NZ,Smart TV,0,apa,The Apartment,view_video_info,title_results,2019-03-23 23:07:14
+Cruzer,NZ,Smart TV,0,holly,Hollywood Darlings,play,video_info,2019-03-23 23:04:37
+Cruzer,NZ,Smart TV,0,holly,Hollywood Darlings,view_video_info,title_results,2019-03-23 23:04:35
+Cruzer,NZ,iPad,0,dirty,Dirty John: The Dirty Truth,view_video_info,title_results,2019-03-14 07:22:56
+Cruzer,NZ,iPad,0,virgin river,Virgin River,view_video_info,title_results,2019-02-23 18:28:05
+Cruzer,NZ,iPad,0,the inno,The Innocent Man,view_video_info,title_results,2019-02-18 06:52:44
+Cruzer,NZ,iPad,0,new,Newness,play,video_info,2019-02-15 07:10:46
+Cruzer,NZ,iPad,0,new,Newness,view_video_info,title_results,2019-02-15 07:10:43
+Cruzer,NZ,iPad,0,wolf,The Wolf of Wall Street,view_video_info,title_results,2018-10-30 07:09:41
+Cruzer,NZ,iPad,0,the hau,The Haunting of Hill House,view_video_info,title_results,2018-10-29 06:32:57
+Cruzer,NZ,iPad,0,the haun,"My Teacher, My Obsession",view_video_info,title_results,2018-10-12 17:42:17
+Cruzer,NZ,iPad,0,the haun,The Haunting of Hill House,view_video_info,title_results,2018-10-12 17:41:34
+Cruzer,NZ,,0,et,E.T. the Extra-Terrestrial,view_suggestion_info,suggestion_results,2018-09-28 18:52:39
+Cruzer,NZ,,0,line ,Line of Duty,view_video_info,title_results,2018-09-01 07:22:12
+Cruzer,NZ,iPad,0,the ran,-1,view_video_info,title_results,2018-08-16 08:20:52
+Guest,NZ,Smart TV,0,hgtv,Christmas With A View,play,video_info,2018-12-18 08:49:13
+Guest,NZ,Smart TV,0,hgtv,Christmas With A View,view_video_info,title_results,2018-12-18 08:48:41
+Guest,NZ,iPad,0,beat bugs ,Beat Bugs,play,video_info,2018-11-23 19:47:04
+Guest,NZ,iPad,0,beat bugs ,Beat Bugs,view_video_info,title_results,2018-11-23 19:46:57
+Wilhelmus,NZ,HTML 5,0,rock,RocknRolla,play,title_results,2021-09-06 00:26:36
+Wilhelmus,NZ,HTML 5,0,once upon a time,Once Upon a Time in Hollywood,view_suggestion_info,suggestion_results,2021-09-06 00:25:11
+Wilhelmus,NZ,iPad,0,american horror,American Horror Story,view_suggestion_info,suggestion_results,2021-07-30 08:24:49
+Wilhelmus,NZ,iPad,0,gir,Giri / Haji,view_video_info,title_results,2021-04-28 06:45:44
+Wilhelmus,NZ,HTML 5,0,line of duty,Line of Duty,view_suggestion_info,suggestion_results,2021-04-26 07:05:49
+Wilhelmus,NZ,HTML 5,0,guy ritchie,Snatch,play,title_results,2021-04-25 06:47:29
+Wilhelmus,NZ,MVPD STB,0,indi,Indiana Jones and the Raiders of the Lost Ark,view_suggestion_info,suggestion_results,2021-03-12 06:28:04
+Wilhelmus,NZ,MVPD STB,0,gir,Giri / Haji,play,video_info,2021-03-07 06:26:15
+Wilhelmus,NZ,MVPD STB,0,gir,Giri / Haji,view_video_info,title_results,2021-03-07 06:26:13
+Wilhelmus,NZ,iPad,0,capa,Capitani,view_video_info,title_results,2021-02-22 05:57:05
+Wilhelmus,NZ,MVPD STB,0,ind,Indiana Jones and the Temple of Doom,play,video_info,2021-02-13 02:16:32
+Wilhelmus,NZ,MVPD STB,0,ind,Indiana Jones and the Temple of Doom,view_video_info,title_results,2021-02-13 02:16:28
+Wilhelmus,NZ,iPad,0,lock and ,Locke & Key,view_video_info,title_results,2021-01-23 08:04:33
+Wilhelmus,NZ,MVPD STB,0,sha,Shameless (U.S.),play,video_info,2021-01-08 06:52:35
+Wilhelmus,NZ,MVPD STB,0,sha,Shameless (U.S.),view_video_info,title_results,2021-01-08 06:52:33
+Wilhelmus,NZ,MVPD STB,0,fin,Finding Dory,view_suggestion_info,suggestion_results,2021-01-03 06:49:34
+Wilhelmus,NZ,MVPD STB,0,fin,Final Destination,view_suggestion_info,suggestion_results,2021-01-03 06:49:25
+Wilhelmus,NZ,MVPD STB,0,jacki,Drunken Master,play,video_info,2021-01-03 06:45:34
+Wilhelmus,NZ,MVPD STB,0,jacki,Drunken Master,view_video_info,suggestion_title_results,2021-01-03 06:45:31
+Wilhelmus,NZ,MVPD STB,0,jacki,Jackie Chan,view_suggestion_info,suggestion_results,2021-01-03 06:45:14
+Wilhelmus,NZ,MVPD STB,0,gu,Inglourious Basterds,view_video_info,suggestion_title_results,2021-01-03 06:39:31
+Wilhelmus,NZ,MVPD STB,0,gu,Guy Ritchie,view_suggestion_info,suggestion_results,2021-01-03 06:39:18
+Wilhelmus,NZ,MVPD STB,0,flat,Flatliners,play,video_info,2021-01-03 06:37:57
+Wilhelmus,NZ,MVPD STB,0,flat,Flatliners,view_video_info,title_results,2021-01-03 06:37:50
+Wilhelmus,NZ,iPad,0,stephen king,Flatliners,view_video_info,title_results,2021-01-03 06:36:37
+Wilhelmus,NZ,iPad,0,stephen king,The Dark Tower,view_video_info,title_results,2021-01-03 06:36:22
+Wilhelmus,NZ,iPad,0,stephen king,Girl on the Third Floor,view_video_info,title_results,2021-01-03 06:35:51
+Wilhelmus,NZ,MVPD STB,0,die hah,The Holiday,play,video_info,2020-12-24 06:59:44
+Wilhelmus,NZ,MVPD STB,0,die hah,The Holiday,view_video_info,title_results,2020-12-24 06:59:42
+Wilhelmus,NZ,MVPD STB,0,die ha,Die Hard,view_suggestion_info,suggestion_results,2020-12-24 06:45:48
+Wilhelmus,NZ,iPad,0,wanted,Wanted,view_video_info,title_results,2020-12-07 06:39:54
+Wilhelmus,NZ,iPad,0,wanted,Wanted,view_video_info,title_results,2020-12-07 06:39:51
+Wilhelmus,NZ,iPad,0,wanted,Wanted,view_video_info,title_results,2020-12-07 06:39:46
+Wilhelmus,NZ,HTML 5,0,line of duty,Line of Duty,view_suggestion_info,suggestion_results,2020-10-03 21:33:15
+Wilhelmus,US,HTML 5,0,twin,Twin Peaks,play,title_results,2020-09-26 04:10:59
+Wilhelmus,NZ,iPad,0,dusk,From Dusk Till Dawn,play,video_info,2020-07-02 04:28:59
+Wilhelmus,NZ,iPad,0,dusk,From Dusk Till Dawn,play,video_info,2020-07-02 04:28:55
+Wilhelmus,NZ,iPad,0,dusk,From Dusk Till Dawn,view_video_info,title_results,2020-07-02 04:28:34
+Wilhelmus,US,iPad,0,twin,Twin Peaks,play,video_info,2020-05-30 06:12:51
+Wilhelmus,US,iPad,0,twin,Twin Peaks,view_video_info,title_results,2020-05-30 06:12:45
+Wilhelmus,NZ,iPad,0,we are legion,The Great Hack,view_video_info,title_results,2020-05-28 18:00:59
+Wilhelmus,NZ,iPad,0,we are legion,Hot Girls Wanted,view_video_info,title_results,2020-05-28 18:00:43
+Wilhelmus,US,iPad,0,twin peaks,Twin Peaks,view_video_info,title_results,2020-04-29 08:34:12
+Wilhelmus,NZ,MVPD STB,0,little b,Little Britain,view_suggestion_info,suggestion_results,2020-03-24 05:53:57
+Wilhelmus,NZ,MVPD STB,0,train,T2 Trainspotting,play,video_info,2020-03-14 06:18:22
+Wilhelmus,NZ,MVPD STB,0,train,T2 Trainspotting,view_video_info,suggestion_title_results,2020-03-14 06:18:19
+Wilhelmus,NZ,MVPD STB,0,train,Trainspotting,view_suggestion_info,suggestion_results,2020-03-14 06:17:58
+Wilhelmus,NZ,iPad,0,dusk,From Dusk Till Dawn,play,video_info,2020-03-13 03:59:39
+Wilhelmus,NZ,iPad,0,dusk,From Dusk Till Dawn,view_video_info,title_results,2020-03-13 03:59:23
+Wilhelmus,NZ,iPad,0,from dus,From Dusk Till Dawn,view_video_info,title_results,2020-02-14 05:41:17
+Wilhelmus,NZ,iPad,0,from du,From Dusk Till Dawn,view_video_info,title_results,2020-02-14 03:23:18
+Wilhelmus,NZ,MVPD STB,0,pul,The Matrix,play,video_info,2020-02-08 07:03:08
+Wilhelmus,NZ,MVPD STB,0,pul,The Matrix,view_video_info,suggestion_title_results,2020-02-08 07:03:03
+Wilhelmus,NZ,MVPD STB,0,pul,Pulp Fiction,view_suggestion_info,suggestion_results,2020-02-08 07:02:50
+Wilhelmus,NZ,MVPD STB,0,guy,Snatch,view_video_info,suggestion_title_results,2020-02-08 07:02:11
+Wilhelmus,NZ,MVPD STB,0,guy,Guy Ritchie,view_suggestion_info,suggestion_results,2020-02-08 07:02:01
+Wilhelmus,NZ,iPad,0,ares,Ares,view_video_info,title_results,2020-01-21 06:29:12
+Wilhelmus,NZ,MVPD STB,0,bear,You vs. Wild,play,video_info,2019-10-23 07:01:46
+Wilhelmus,NZ,MVPD STB,0,bear,You vs. Wild,view_video_info,suggestion_title_results,2019-10-23 07:01:36
+Wilhelmus,NZ,MVPD STB,0,bear,Bear Grylls,view_suggestion_info,suggestion_results,2019-10-23 07:01:17
+Wilhelmus,NZ,MVPD STB,0,dav,Edge of the Universe,play,video_info,2019-10-10 07:54:40
+Wilhelmus,NZ,MVPD STB,0,dav,Edge of the Universe,view_video_info,suggestion_title_results,2019-10-10 07:54:34
+Wilhelmus,NZ,MVPD STB,0,dav,David Attenborough,view_suggestion_info,suggestion_results,2019-10-10 07:54:23
+Wilhelmus,NZ,iPad,0,stephen king ,The Mist,view_video_info,title_results,2019-09-09 09:08:58
+Wilhelmus,NZ,iPad,0,stephen king ,Carrie,view_video_info,title_results,2019-09-09 09:08:29
+Wilhelmus,NZ,iPad,0,apollo ,Mission Control: The Unsung Heroes of Apollo,view_video_info,title_results,2019-08-24 21:36:32
+Wilhelmus,US,iPad,0,twin,Twin Peaks,play,video_info,2019-08-18 08:26:13
+Wilhelmus,US,iPad,0,twin,Twin Peaks,view_video_info,title_results,2019-08-18 08:22:46
+Wilhelmus,US,iPad,0,twin pea,Twin Peaks,play,video_info,2019-08-03 08:37:30
+Wilhelmus,US,iPad,0,twin pea,Twin Peaks,view_video_info,title_results,2019-08-03 08:37:18
+Wilhelmus,US,iPad,0,ncis,NCIS,play,video_info,2019-07-26 08:02:29
+Wilhelmus,US,iPad,0,ncis,NCIS,view_video_info,title_results,2019-07-26 08:02:09
+Wilhelmus,US,iPad,0,ncis,NCIS,view_video_info,title_results,2019-07-26 07:58:25
+Wilhelmus,NZ,iPad,0,real rock,Snatch,view_video_info,title_results,2019-06-17 09:45:42
+Wilhelmus,NZ,iPad,0,quen,Quentin Tarantino,view_suggestion_info,suggestion_results,2019-06-17 09:45:04
+Wilhelmus,NZ,iPad,0,quen,Reservoir Dogs,view_video_info,title_results,2019-06-17 09:44:49
+Wilhelmus,NZ,iPad,0,quen,Inglourious Basterds,view_video_info,title_results,2019-06-17 09:44:32
+Wilhelmus,NZ,iPad,0,stephen king,Stephen King's Children of the Corn,view_suggestion_info,suggestion_results,2019-06-01 07:32:51
+Wilhelmus,NZ,iPad,0,stephen king,Carrie,view_video_info,title_results,2019-06-01 07:32:25
+Wilhelmus,NZ,iPad,0,stephen king,Scary Movies based on a work by Stephen King,view_suggestion_info,suggestion_results,2019-06-01 07:32:15
+Wilhelmus,NZ,iPad,0,stephen king,Movies based on a work by Stephen King,view_suggestion_info,suggestion_results,2019-06-01 07:32:10
+Wilhelmus,NZ,iPad,0,nightmare on,Insidious: Chapter 3,view_video_info,suggestion_title_results,2019-01-10 08:20:43
+Wilhelmus,NZ,iPad,0,nightmare on,A Nightmare on Elm Street 2: Freddy's Revenge,view_suggestion_info,suggestion_results,2019-01-10 08:20:31
+Wilhelmus,NZ,iPad,0,narcos,Money Heist,view_video_info,title_results,2018-11-30 08:43:22
+Wilhelmus,NZ,iPad,0,narcos,Narcos: Mexico,view_video_info,title_results,2018-11-30 08:42:32
+Wilhelmus,NZ,iPad,0,narcos,Narcos,view_video_info,title_results,2018-11-30 08:42:17
+Wilhelmus,NZ,iPad,0,mul,-1,play,video_info,2018-08-10 07:52:10
+Wilhelmus,NZ,iPad,0,mul,mulholland dr.,view_video_info,title_results,2018-08-10 07:51:41
+Wilhelmus,NZ,iPad,0,stranger things,-1,play,video_info,2018-07-28 00:55:41
+Wilhelmus,NZ,iPad,0,stranger things,stranger things,view_video_info,title_results,2018-07-28 00:55:15
+Wilhelmus,NZ,iPad,0,lock,snatch,view_video_info,title_results,2018-06-20 08:07:56
+Wilhelmus,NZ,HTML 5,0,safe,safe,view_video_info,title_results,2018-05-19 08:03:31
+Wilhelmus,NZ,iPad,0,bates,bates motel,view_video_info,title_results,2018-04-28 03:44:53
+Wilhelmus,NZ,iPad,0,bates,bates motel,view_video_info,title_results,2018-03-18 03:07:19
+Wilhelmus,NZ,iPad,0,al pacino,-1,download,video_info,2018-01-24 08:42:39
+Wilhelmus,NZ,iPad,0,al pacino,-1,view_video_info,title_results,2018-01-24 08:42:26
+Wilhelmus,NZ,iPad,0,lock st,american gangster,view_video_info,video_info,2018-01-24 08:41:50
+Wilhelmus,NZ,iPad,0,lock st,trainspotting,view_video_info,video_info,2018-01-24 08:41:38
+Wilhelmus,NZ,iPad,0,lock st,-1,download,video_info,2018-01-24 08:41:25
+Wilhelmus,NZ,iPad,0,lock st,snatch,view_video_info,suggestion_title_results,2018-01-24 08:40:46
+Wilhelmus,NZ,iPad,0,lock st,"lock, stock and two smoking barrels",view_suggestion_info,suggestion_results,2018-01-24 08:40:31
+Wilhelmus,NZ,iPad,0,djang,-1,download,video_info,2018-01-24 08:28:54
+Wilhelmus,NZ,iPad,0,djang,django unchained,view_video_info,title_results,2018-01-24 08:28:47
+Wilhelmus,NZ,iPad,0,thenri,american horror story,view_video_info,suggestion_title_results,2017-12-28 07:02:35
+Wilhelmus,NZ,iPad,0,thenri,the ring,view_suggestion_info,suggestion_results,2017-12-28 07:02:25
+Wilhelmus,NZ,iPad,0,thenri,the human centipede: first sequence,view_video_info,suggestion_title_results,2017-12-28 07:02:16
+Wilhelmus,NZ,iPad,0,thenri,the ring,view_suggestion_info,suggestion_results,2017-12-28 07:02:01
+Wilhelmus,NZ,iPad,0,christmas ,-1,view_suggestion_info,suggestion_results,2017-12-21 17:19:40
+Wilhelmus,NZ,iPad,0,friends,friends,view_suggestion_info,suggestion_results,2017-12-18 08:18:32
+Wilhelmus,NZ,iPad,0,dark,dark,play,video_info,2017-12-07 07:12:46
+Wilhelmus,NZ,iPad,0,dark,dark,view_video_info,title_results,2017-12-07 07:12:41
+Wilhelmus,NZ,iPad,0,suits,suits,view_video_info,title_results,2017-11-25 08:29:41
+Wilhelmus,NZ,iPad,0,28 dayd,28 days later,view_suggestion_info,suggestion_results,2017-10-31 08:48:26
+Wilhelmus,NZ,iPad,0,28 dayd,28 days,view_video_info,title_results,2017-10-31 08:48:18
+Wilhelmus,NZ,iPad,0,ing,inglourious basterds,view_video_info,title_results,2017-10-31 08:43:45
+Wilhelmus,NZ,iPad,0,from dusk,from dusk till dawn,play,video_info,2017-10-31 08:23:11
+Wilhelmus,NZ,iPad,0,from dusk,from dusk till dawn,view_video_info,suggestion_title_results,2017-10-31 08:23:03
+Wilhelmus,NZ,iPad,0,from dusk,from dusk till dawn,view_suggestion_info,suggestion_results,2017-10-31 08:23:01
+Wilhelmus,NZ,iPad,0,eli roth,hostel,play,video_info,2017-10-31 08:22:28
+Wilhelmus,NZ,iPad,0,eli roth,hostel,view_video_info,title_results,2017-10-31 08:22:14
+Wilhelmus,NZ,iPad,0,krueger ,a nightmare on elm street,view_video_info,title_results,2017-10-31 08:21:19
+Wilhelmus,NZ,Android Tablet,0,godf,the godfather: part iii,view_suggestion_info,suggestion_results,2017-08-13 08:26:19
+Wilhelmus,NZ,Android Tablet,0,lock,"lock, stock and two smoking barrels",view_suggestion_info,suggestion_results,2017-07-29 07:48:12
+Wilhelmus,NZ,Android Tablet,0,lock,"lock, stock and two smoking barrels",view_suggestion_info,suggestion_results,2017-07-29 07:48:12
+Wilhelmus,NZ,iPad,0,guy rit,snatch,view_video_info,person_title_results,2017-07-21 09:35:41
+Wilhelmus,NZ,iPad,0,guy rit,guy ritchie,view_person_info,person_results,2017-07-21 09:35:38
+Wilhelmus,NZ,iPad,0,stephen,-1,play,video_info,2017-07-21 09:23:36
+Wilhelmus,NZ,iPad,0,stephen,stephen king's a good marriage,view_video_info,title_results,2017-07-21 09:23:23
+Wilhelmus,NZ,iPad,0,bbc,line of duty,view_video_info,title_results,2017-04-30 09:00:00
+Wilhelmus,NZ,Android Tablet,0,bbc,line of duty,view_video_info,title_results,2017-04-27 09:21:17
+Wilhelmus,NZ,Android Tablet,0,alf,alf,view_suggestion_info,suggestion_results,2017-04-27 09:20:27
+Wilhelmus,NZ,Android Tablet,0,heroes,heroes unite,view_suggestion_info,suggestion_results,2017-02-15 07:18:22
+Wilhelmus,NZ,Android Tablet,0,heroes,heroes,view_video_info,title_results,2017-02-15 07:18:08
+Wilhelmus,NZ,Android Tablet,0,x fil,the x-files,view_suggestion_info,suggestion_results,2017-02-15 07:17:56
+Wilhelmus,NZ,Android Tablet,0,heroes,heroes,download,video_info,2017-01-12 18:18:03
+Wilhelmus,NZ,Android Tablet,0,heroes,heroes,view_video_info,title_results,2017-01-12 18:17:51
+Wilhelmus,NZ,iPad,0,shrek,dreamworks shrek the halls,add_to_list,video_info,2016-12-24 06:26:18
+Wilhelmus,NZ,iPad,0,shrek,dreamworks shrek the halls,view_video_info,title_results,2016-12-24 06:26:16
+Wilhelmus,NZ,iPad,0,shrek,dreamworks shrek the halls,view_video_info,title_results,2016-12-24 05:55:40
+Wilhelmus,NZ,iPad,0,love ac,love actually,view_suggestion_info,suggestion_results,2016-12-24 05:48:58
+Wilhelmus,NZ,iPad,0,love ac,love actually,view_suggestion_info,suggestion_results,2016-12-24 05:48:58
+Wilhelmus,NZ,Android Tablet,0,scream,scream,play,video_info,2016-11-10 06:31:43
+Wilhelmus,NZ,Android Tablet,0,scream,scream,view_video_info,video_info,2016-11-10 06:31:34
+Wilhelmus,NZ,Android Tablet,0,scream,scream 2,view_video_info,title_results,2016-11-10 06:31:29
+Wilhelmus,NZ,Android Tablet,0,scream,scream,view_suggestion_info,suggestion_results,2016-11-10 06:31:20
+Wilhelmus,NZ,Android Tablet,0,american ,american horror story,play,video_info,2016-11-03 07:32:01
+Wilhelmus,NZ,Android Tablet,0,american ,american horror story,play,video_info,2016-11-03 06:42:07
+Wilhelmus,NZ,Android Tablet,0,american ,american horror story,view_video_info,title_results,2016-11-03 06:41:50
+School for Miss Cruz,NZ,HTML 5,1,happy feet,Happy Feet,view_suggestion_info,suggestion_results,2021-07-09 02:00:44
+School for Miss Cruz,NZ,HTML 5,1,charlie and the chocolate ,Charlie and the Chocolate Factory,view_suggestion_info,suggestion_results,2020-11-08 19:31:09
+School for Miss Cruz,NZ,iPad,1,tarzan,White Fang,view_video_info,title_results,2020-11-08 01:38:41
+School for Miss Cruz,NZ,iPad,1,tarzan,Edgar Rice Burroughs' Tarzan and Jane,view_video_info,title_results,2020-11-08 01:38:37
+School for Miss Cruz,NZ,iPad,1,tarzan,Charlotte's Web,view_video_info,title_results,2020-11-08 01:38:31
+School for Miss Cruz,NZ,iPad,1,tarzan,The Jungle Book,view_video_info,title_results,2020-11-08 01:38:19
+School for Miss Cruz,NZ,HTML 5,1,small foot,Smallfoot,play,title_results,2020-07-02 03:36:42
+School for Miss Cruz,NZ,HTML 5,1,peter rabbit,Hop,play,video_info,2019-04-12 00:15:05
+School for Miss Cruz,NZ,HTML 5,1,peter rabbit,Hop,play,title_results,2019-04-12 00:15:05
+School for Miss Cruz,NZ,HTML 5,1,peter rabbit,Peter Rabbit,play,title_results,2019-04-12 00:14:26
+School for Miss Cruz,NZ,HTML 5,1,gar,The Garfield Show,play,title_results,2018-12-13 06:34:42
+School for Miss Cruz,NZ,HTML 5,1,tom jerr,Tom and Jerry: Willy Wonka and the Chocolate Factory,play,title_results,2018-12-13 04:08:57
+School for Miss Cruz,NZ,HTML 5,1,super m,Super Monsters,play,title_results,2018-12-12 20:03:05
+School for Miss Cruz,NZ,,1,beat bugs,Beat Bugs,view_video_info,title_results,2018-10-05 09:58:25
+School for Miss Cruz,NZ,iPad,1,bubb,the magic school bus rides again,view_video_info,title_results,2018-08-23 10:25:30
+School for Miss Cruz,NZ,iPad,1,bubb,sammy 2,view_video_info,title_results,2018-08-23 10:25:24
+School for Miss Cruz,NZ,iPad,1,bubb,splash and bubbles,view_video_info,title_results,2018-08-23 10:24:58
+School for Miss Cruz,NZ,iPad,1,beat bugs ,beat bugs: all together now,view_video_info,title_results,2018-08-23 10:22:10
+School for Miss Cruz,NZ,iPad,1,beat bugs ,beat bugs,view_video_info,title_results,2018-08-23 10:22:03
+School for Miss Cruz,NZ,iPad,1,beat bugs ,curious george,view_video_info,title_results,2018-08-23 10:21:48
+School for Miss Cruz,NZ,iPad,1,beat bugs ,beat bugs,view_video_info,title_results,2018-08-23 10:19:32
