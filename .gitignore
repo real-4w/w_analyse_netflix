@@ -1,0 +1,12 @@
+data/ACCOUNT/AccountDetails.csv
+data/ACCOUNT/SubscriptionHistory.csv
+data/ACCOUNT/TermsOfUse.csv
+data/SURVEYS/ProductCancellationSurvey.txt
+data/SOCIAL_MEDIA_CONNECTIONS/SocialMediaConnections.txt
+data/PROFILES/AvatarHistory.csv
+data/PROFILES/Profiles.csv
+data/PROFILES/ParentalControlsRestrictedTitles.txt
+data/PAYMENT_AND_BILLING/BillingHistory.csv
+data/MESSAGES/MessagesSentByNetflix.csv
+data/CUSTOMER_SERVICE/CSContact.txt
+data/CUSTOMER_SERVICE/ChatTranscripts.txt
