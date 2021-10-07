@@ -23,6 +23,9 @@ if __name__ == "__main__":                                      # only run this 
     path = pathlib.Path.cwd() / file
     df = pd.read_csv(path)
     
+    df2 = ReturnTotalTimePerProfile(df)
+    print (df2)
+
     df.shape
     df.head(1)
     #dropping some columns
