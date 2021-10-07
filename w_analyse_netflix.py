@@ -9,11 +9,16 @@ def ProcessYAML (yaml_file) :
         if debug == True : print("YAML file:\n", y_data)
     return (debug, y_data) 
 
-def ReturnProfiles(df_netflix) :
+def ProfileList(df_netflix) :
     '''This function returns all Netflix profiles in a list.'''
     return(list(df_netflix['Profile Name'].unique()))
 
-def ReturnTotalTimePerProfile(df_netflix):
+def Profile(df_netflix, profile):
+    '''This function returns all Netflix data for the profile requested.'''
+    df2 = df_netflix.loc[(df_netflix['Profile Name'] == profile)]
+    return (df2)
+
+def TotalTimePerProfile(df_netflix):
     '''This function returns total duration view of all Netflix profiles in a df.'''
     df2 = df_netflix.loc[:, ['Profile Name','Duration']]
     #df2 = df[['Profile Name','Duration']] #throws a warning
@@ -22,7 +27,7 @@ def ReturnTotalTimePerProfile(df_netflix):
     df2 = df2.groupby(['Profile Name'])['Duration'].sum()
     return (df2)
 
-def ReturnTimeForAProfile(df_netflix, profile):
+def TotalTimeForAProfile(df_netflix, profile):
     '''This function returns total duration view for a sprecific Netflix profiles in a df.'''
     df2 = df_netflix.loc[(df_netflix['Profile Name'] == profile), ['Profile Name','Duration']]
     df2['Duration'] = pd.to_timedelta(df2['Duration'])
@@ -37,12 +42,14 @@ if __name__ == "__main__":                                      # only run this 
     
     df = pd.read_csv(path)
     print(df)
-    print(ReturnProfiles(df))
+    print(ProfileList(df))
     
-    df2 = ReturnTotalTimePerProfile(df)
+    df2 = TotalTimePerProfile(df)
     print (df2)
 
-    df3 = ReturnTimeForAProfile(df, 'Alex')
+    df3 = TotalTimeForAProfile(df, 'Alex')
     print(df3)
 
+    df4 = Profile(df, 'Alex')
+    print(df4)
     
