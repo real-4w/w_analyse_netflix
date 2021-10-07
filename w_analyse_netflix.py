@@ -8,7 +8,13 @@ def ProcessYAML (yaml_file) :
         debug = y_data['debug']
         if debug == True : print("YAML file:\n", y_data)
     return (debug, y_data) 
+
+def ReturnProfiles(df_netflix) :
+    '''This function returns all Netflix profiles in a list.'''
+    return(list(df_netflix['Profile Name'].unique()))
+
 def ReturnTotalTimePerProfile(df_netflix):
+    '''This function returns total duration view of all Netflix profiles in a df.'''
     df2 = df_netflix.loc[:, ['Profile Name','Duration']]
     #df2 = df[['Profile Name','Duration']] #throws a warning
     #df2 = df.loc[(df['Profile Name'] == "Alex"), ['Profile Name','Duration']]
@@ -22,7 +28,7 @@ if __name__ == "__main__":                                      # only run this 
     file = yaml_data['view']
     path = pathlib.Path.cwd() / file
     df = pd.read_csv(path)
-    
+    print(ReturnProfiles(df))
     df2 = ReturnTotalTimePerProfile(df)
     print (df2)
 
