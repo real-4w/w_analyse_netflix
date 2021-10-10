@@ -3,3 +3,4 @@ debug : False                                                     # will toggle 
 plot : True                                                       # will toggle the amthplots
 copy_to_file : False                                              # will toggle a copy of the console to log file
 view : "data/CONTENT_INTERACTION/ViewingActivity.csv"
+devices : "data/DEVICES/Devices.csv"
