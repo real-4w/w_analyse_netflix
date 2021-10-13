@@ -8,7 +8,7 @@ def ProcessYAML (yaml_file) :
         debug = y_data['debug']
         if debug == True : print("YAML file:\n", y_data)
     return (debug, y_data) 
-
+#- FUnctions on CONTENT_INTERACTION ==========================================================================
 def ProfileList(df_netflix) :
     '''This function returns all Netflix profiles in a list.'''
     return(list(df_netflix['Profile Name'].unique()))
@@ -33,6 +33,8 @@ def TotalTimeForAProfile(df_netflix, profile):
     df2['Duration'] = pd.to_timedelta(df2['Duration'])
     df2 = df2.groupby(['Profile Name'])['Duration'].sum()
     return (df2)
+
+#- FUnctions on CONTENT_INTERACTION ==========================================================================
 
 #= Main programme ===============================================================================================
 if __name__ == "__main__":                                      # only run this as standalone script
